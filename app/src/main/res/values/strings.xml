@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SCHALE</string>
+    <string name="btn">Simpan</string>
+    <string name="Btn1">Button 1</string>
+    <string name="Btn2">Button 2</string>
+    <string name="spinner_date_time">Spinner Date Time</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="hint_email">masukkan email anda</string>
+    <string name="nama">NAMA</string>
+    <string name="hint_nama">masukkan nama anda</string>
+    <string name="password">Password</string>
+    <string name="hint_password">masukkan password</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+    <string name="hint_telepon">masukkan nomor telepon</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="hint_tanggal_lahir">Pilih tanggal lahir</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="tamatan">Tamatan</string>
+    <string name="keahlian">Keahlian</string>
+    <string name="proses">Proses</string>
+    <string name="sma_smk">SMA/SMK</string>
+    <string name="d3">D3</string>
+    <string name="d4_s1">D4/S1</string>
+    <string name="programmer">Programmer</string>
+    <string name="ai">AI</string>
+    <string name="network">Network</string>
+    <string name="cyber_security">Cyber Security</string>
+</resources>

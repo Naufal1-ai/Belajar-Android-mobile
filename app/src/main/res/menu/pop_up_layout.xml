@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Camera"
+        android:icon="@drawable/camera_black"
+        app:showAsAction="always"
+        android:iconTint="#ffffff"
+        android:id="@+id/menuCamera"
+        />
+    <item
+        android:title="New Group"
+        android:id="@+id/menuGroup"
+        />
+    <item android:title="Setting">
+        <menu>
+            <item
+                android:title="profile"
+                android:id="@+id/menuProfile"
+                />
+            <item
+                android:title="Tema"
+                android:id="@+id/menuTema"
+                />
+        </menu>
+
+    </item>
+
+</menu>
